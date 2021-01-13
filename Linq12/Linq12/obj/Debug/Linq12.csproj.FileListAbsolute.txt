@@ -1,0 +1,7 @@
+D:\Linq\Linq12\Linq12\bin\Debug\Linq12.exe.config
+D:\Linq\Linq12\Linq12\bin\Debug\Linq12.exe
+D:\Linq\Linq12\Linq12\bin\Debug\Linq12.pdb
+D:\Linq\Linq12\Linq12\obj\Debug\Linq12.csprojAssemblyReference.cache
+D:\Linq\Linq12\Linq12\obj\Debug\Linq12.csproj.CoreCompileInputs.cache
+D:\Linq\Linq12\Linq12\obj\Debug\Linq12.exe
+D:\Linq\Linq12\Linq12\obj\Debug\Linq12.pdb
